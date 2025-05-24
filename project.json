@@ -1,0 +1,17 @@
+{
+  "name": "прошивка для Hub",
+  "about": "Краткое описание проекта",
+  "version": "1.0",
+  "notes": "Комментарии к обновлению",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/SiarheiMinkin/update-beehive-hub-firmware/main/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
