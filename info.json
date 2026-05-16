@@ -1,7 +1,7 @@
 {
   "name": "прошивка для Hub",
   "about": "Краткое описание проекта",
-  "version": "1.9",
-  "notes": "Long range для esp-now",
+  "version": "1.10",
+  "notes": "хаб в коробке",
   "path": "https://raw.githubusercontent.com/SiarheiMinkin/update-beehive-hub-firmware/main/firmware.bin"
 }
